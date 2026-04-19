@@ -3,3 +3,4 @@ This resource library is an index that organizes and classifies the resources di
 A structured directory of publicly available datasets.
 A directory of the most advanced models and their official implementations.
 Our goal is to enhance the transparency and accessibility of the resources used in this review.
+![](https://github.com/yang-sn567/SSL-for-MPP_review/blob/main/SSL%20Framework.png)
