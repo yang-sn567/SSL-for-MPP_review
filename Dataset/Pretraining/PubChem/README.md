@@ -1,0 +1,2 @@
+The PubChem dataset is maintained by the National Center for Biotechnology Information (NCBI) under the U.S. National Library of Medicine (NLM). It provides extensive information on molecular structures, biological activities, and physicochemical properties, making it another widely used resource for molecular representation learning.  
+The PubChem dataset is available on https://pubchem.ncbi.nlm.nih.gov/.
