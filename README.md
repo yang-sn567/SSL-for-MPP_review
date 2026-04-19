@@ -13,3 +13,5 @@ Each subdirectory contains a file with detailed descriptions and direct links to
 Data Hosting: Raw data files are not stored​ in this repository. All links point to external, publicly accessible sources. Users must comply with the licenses of the original data providers.  
 ### Model Index  
 We catalog the self-supervised learning models reviewed. Links to official GitHub repositories or relevant publications for each model architecture discussed. When referencing models, we recommend checking the original repositories for version compatibility and dependency requirements.  
+
+
