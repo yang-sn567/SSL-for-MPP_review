@@ -1,0 +1,2 @@
+MoleculeNet covers a variety of important drug discovery tasks, including drug activity prediction, metabolism prediction, and solubility prediction. By providing standardized datasets, evaluation metrics, and experimental protocols, MoleculeNet offers a unified framework that enables fair and consistent comparison across different molecular property prediction models.   
+The MoleculeNet dataset is available on https://moleculenet.org/.
